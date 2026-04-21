@@ -1,4 +1,3 @@
-first-post.md
 ---
 title: 첫 번째 포스트
 published: 2026-04-21
